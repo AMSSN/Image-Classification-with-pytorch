@@ -3,6 +3,9 @@
 -Image-Classification-with-pytorch
 --data_analysis
 --data_set
+---train
+---valid
+---test
 --data_temporary
 --logs
 --model_weight
