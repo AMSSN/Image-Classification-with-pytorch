@@ -1,5 +1,15 @@
 ###简介
-
+目录格式为
+-Image-Classification-with-pytorch
+--data_analysis
+--data_set
+--data_temporary
+--logs
+--model_weight
+--model_zoo
+--official_weight
+--utils
+--.py文件
 
 ###准备数据
 
